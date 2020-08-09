@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Heyho visitor,
+
+thank you for checking my github profile. I am a developer since 2003. I hope you like my contributions to the community.
+
 <!--
 **naxmefy/naxmefy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
