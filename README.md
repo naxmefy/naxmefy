@@ -1,3 +1,5 @@
+[![Codewars Profile](https://www.codewars.com/users/naxmefy/badges/large)](https://www.codewars.com/users/naxmefy)
+
 ### Hi there 👋
 
 Heyho visitor,
