@@ -1,5 +1,3 @@
-[![Codewars Profile](https://www.codewars.com/users/naxmefy/badges/large)](https://www.codewars.com/users/naxmefy)
-
 ### Hi there 👋
 
 Heyho visitor,
@@ -25,3 +23,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naxmefy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naxmefy&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
+[![Codewars Profile](https://www.codewars.com/users/naxmefy/badges/large)](https://www.codewars.com/users/naxmefy)
