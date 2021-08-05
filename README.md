@@ -1,10 +1,11 @@
+<!--
 ### Hi there 👋
 
 Heyho visitor,
 
 thank you for checking my github profile. I am a developer since 2003. I hope you like my contributions to the community.
 
-<!--
+
 **naxmefy/naxmefy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,10 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="text: center">
+  <a href="https://www.codewars.com/users/naxmefy">
+    <img src="https://www.codewars.com/users/naxmefy/badges/large" />
+  </a>
+</div>
+
 <a href="https://github.com/naxmefy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naxmefy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naxmefy&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
-<a href="https://www.codewars.com/users/naxmefy">
-  <img src="https://www.codewars.com/users/naxmefy/badges/large" />
-</a>
+
