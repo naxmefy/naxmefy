@@ -27,6 +27,17 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br />
+<div>
+  <a href="https://app.codesignal.com/profile/naxmefy">
+    <img src="https://img.shields.io/badge/CodeSignal%20Level-49-blue" />
+    <img src="https://img.shields.io/badge/CodeSignal%20Arcade%20Intro-60%2F60-blue" />
+    <img src="https://img.shields.io/badge/CodeSignal%20Arcade%20The%20Core-49%2F162-blue" />
+    <img src="https://img.shields.io/badge/CodeSignal%20Arcade%20Databases-84%2F84-blue" />
+    <img src="https://img.shields.io/badge/CodeSignal%20Arcade%20Python-4%2F92-blue" />
+    <img src="https://img.shields.io/badge/CodeSignal%20Arcade%20Graphs-0%2F66-blue" />
+  </a>
+</div>
+<br />
 <a href="https://github.com/naxmefy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naxmefy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naxmefy&layout=compact&exclude_lang=java+r&theme=gruvbox" /> 
