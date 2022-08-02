@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img src="https://badges.pufler.dev/visits/naxmefy/naxmefy?style=flat-square&color=6875f5&logo=github" />
+  <img src="https://media.giphy.com/media/fuVLJDSata0roTYJZ5/giphy.gif" height="150" />
+</div>
+
+<div>
+  <!--<img src="https://badges.pufler.dev/visits/naxmefy/naxmefy?style=flat-square&color=6875f5&logo=github" />-->
   <a href="https://www.codewars.com/users/naxmefy">
     <img src="https://www.codewars.com/users/naxmefy/badges/micro" />
   </a>
