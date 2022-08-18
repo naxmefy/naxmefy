@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img src="https://media.giphy.com/media/fuVLJDSata0roTYJZ5/giphy.gif" height="150" />
+  <img src="https://media.giphy.com/media/fuVLJDSata0roTYJZ5/giphy.gif" width="150" height="150" />
 </div>
 
 <div>
