@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div>
   <img src="https://media.giphy.com/media/fuVLJDSata0roTYJZ5/giphy.gif" width="150" height="150" />
 </div>
 
 <div>
-  <!--<img src="https://badges.pufler.dev/visits/naxmefy/naxmefy?style=flat-square&color=6875f5&logo=github" />-->
+  !--<img src="https://badges.pufler.dev/visits/naxmefy/naxmefy?style=flat-square&color=6875f5&logo=github" />--
   <a href="https://www.codewars.com/users/naxmefy">
     <img src="https://www.codewars.com/users/naxmefy/badges/micro" />
   </a>
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br />
+-->
 <a href="https://github.com/naxmefy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naxmefy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naxmefy&layout=compact&langs_count=6&theme=gruvbox" /> 
