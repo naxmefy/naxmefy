@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 <br />
 <a href="https://github.com/naxmefy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naxmefy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naxmefy&layout=compact&exclude_lang=java+r&theme=gruvbox" /> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naxmefy&layout=compact&langs_count=6&theme=gruvbox" /> 
 </a>
 
